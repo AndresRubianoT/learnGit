@@ -1,0 +1,3 @@
+Hello git
+
+se supone que vamos a aprender a usar git con los cursos online
