@@ -2,3 +2,4 @@ Hello git
 
 Vamos a aprender a usar git con los cursos online de platzi
 ya se hizo el uso del comanado "git reset --hard"
+Aun no entiendo por que no se me guarda el mensaje en Git hub
