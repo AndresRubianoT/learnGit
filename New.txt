@@ -1,2 +1,3 @@
 vamos a probar que tal me va con la subida de este texto al github
 este texto se va a usar en la rama footer, es mas que todo para probar que tal rinde en nuestro github
+vamos a crar una rama silenciosa, donde no se va a observar el cambio hecho y ni quien fue el que hizo ese cambio, por lo que se debe de tener mucho cuidado con esto
