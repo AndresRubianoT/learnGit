@@ -1,2 +1,3 @@
 vamos a probar que tal me va con la subida de este texto al github
 este texto se va a usar en la rama footer, es mas que todo para probar que tal rinde en nuestro github
+Es esta rama recien creada, se vera el impacto de un Git Rebase y lo cauteloso que debe ser este comando
